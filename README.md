@@ -14,10 +14,11 @@ I make tools that use AI to do the boring work, for people who'd rather be makin
 - **[CopySprout](https://copysprout.app)** - AI writing for Etsy sellers. Sixteen tools for the everyday parts of running a shop, in plain language.
 - **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated and dropshipped listings on Etsy.
 - **[IndieGameScout](https://tarlow.itch.io/indiegamescout-itchio-stats-tracker)** - desktop app that tracks itch.io stats over time: ratings, jam ranks, views, downloads, earnings.
+- **[Moss Toolbox](https://mosstoolbox.com/)** - Free tools built to save you time. AI powered tools to automate the heavy lifting.
 
 ## Writing
 
-I blog about building in public, local-first AI, and shipping things solo at [tarlow.space](https://tarlow.space). The honest versions of the launch stories, not the highlight reels.
+I blog about building in public, local-first AI, and shipping things solo at [tarlow.space](https://tarlow.space).
 
 ## Stack
 
@@ -27,4 +28,4 @@ Astro · TypeScript · Node.js · Electron · Firebase · Tailwind CSS · local 
 
 - [Bluesky](https://bsky.app/profile/mossaistudio.bsky.social) - @mossaistudio.bsky.social
 - [X](https://x.com/MossAIStudio) - @MossAIStudio
-- [Moss AI Studio](https://mossaistudio.com) - the studio and its free tools
+- [Moss AI Studio](https://mossaistudio.com) - the studio
