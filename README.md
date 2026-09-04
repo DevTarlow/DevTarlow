@@ -7,7 +7,17 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40mossaistudio.bsky.social-0285FF?style=flat)](https://bsky.app/profile/mossaistudio.bsky.social)
 [![X](https://img.shields.io/badge/X-%40MossAIStudio-000000?style=flat)](https://x.com/MossAIStudio)
 
-I make tools that use AI to do the boring work, for people who'd rather be making things than fighting software. No config screens, no manuals. When I can, I build local-first, so your data stays on your machine.
+Back after a 3 year inner journey break and 5 year tech break.
+
+AI sparked my interest to come back to building. And since then, I am racing to learn, adobt, and teach what I know.
+
+This way we can use this technology to pivot humanity into a new era. Finding new discoveries and unlocking more about our selves while driving awareness and safety for everyone.
+
+Now, more than ever. I believe that everyone has the power to create.
+
+That is the big question... What will one create with all this power?
+
+My mission is to help, heal, share, inspire, learn, and grow.
 
 ## Currently building
 
