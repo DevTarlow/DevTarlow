@@ -9,7 +9,7 @@
 
 Back after a 3 year inner journey break and 5 year tech break.
 
-AI sparked my interest to come back to building. And since then, I am racing to learn, adobt, and teach what I know.
+AI sparked my interest to come back to building. And since then, I am racing to learn, adopt, and teach what I know.
 
 This way we can use this technology to pivot humanity into a new era. Finding new discoveries and unlocking more about our selves while driving awareness and safety for everyone.
 
