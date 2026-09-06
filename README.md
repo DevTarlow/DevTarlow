@@ -28,11 +28,7 @@ My mission is to help, heal, share, inspire, learn, and grow.
 
 ## Writing
 
-I blog about building in public, local-first AI, and shipping things solo at [tarlow.space](https://tarlow.space).
-
-## Stack
-
-Astro · TypeScript · Node.js · Electron · Firebase · Tailwind CSS · local LLMs
+I blog about building in public, AI, and shipping things solo at [tarlow.space](https://tarlow.space).
 
 ## Elsewhere
 
