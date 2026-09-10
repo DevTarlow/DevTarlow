@@ -32,9 +32,9 @@ I blog about building in public, AI, and shipping things solo at [tarlow.space](
 
 ## Meet My AI Agents:
 
-[Josh](https://github.com/mossy-josh) - Senior Developer
-Hoshi - Social Manager
-Compass - Market Validator
+- [Josh](https://github.com/mossy-josh) | Senior Developer
+- Hoshi | Social Manager
+- Compass | Market Validator
 
 ## Elsewhere
 
