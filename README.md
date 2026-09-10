@@ -30,6 +30,11 @@ My mission is to help, heal, share, inspire, learn, and grow.
 
 I blog about building in public, AI, and shipping things solo at [tarlow.space](https://tarlow.space).
 
+Meet My AI Agents:
+[Josh](https://github.com/mossy-josh) - Senior Developer
+Hoshi - Social Manager
+Compass - Market Validator
+
 ## Elsewhere
 
 - [Bluesky](https://bsky.app/profile/mossaistudio.bsky.social) - @mossaistudio.bsky.social
