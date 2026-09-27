@@ -32,7 +32,7 @@ My mission is to help, heal, share, inspire, learn, and grow.
 
 ## Writing
 
-I blog about building in public, AI, and shipping things solo at [tarlow.space](https://tarlow.space).
+I blog about building in public, my experiences, and AI [tarlow.space](https://tarlow.space).
 
 ## Elsewhere
 
