@@ -1,6 +1,6 @@
 # Tarlow
 
-**The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR · I have been personally building software since 2014
+**The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
 
 [![Studio](https://img.shields.io/badge/Studio-mossaistudio.com-C05746?style=flat)](https://mossaistudio.com)
 [![Blog](https://img.shields.io/badge/Blog-tarlow.space-C05746?style=flat)](https://tarlow.space)
