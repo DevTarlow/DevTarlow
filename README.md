@@ -6,7 +6,7 @@ I am 41 now, and I stepped away from all of it for 5 years and came back with a 
 
 And, I love building tools that can bridge the gaps.
 
-**The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
+📖 [Click here to read more about my journey](https://mossaistudio.com/blog/the-story-behind-moss-ai-studio/)
 
 [![Studio](https://img.shields.io/badge/Studio-mossaistudio.com-C05746?style=flat)](https://mossaistudio.com)
 [![Blog](https://img.shields.io/badge/Blog-tarlow.space-C05746?style=flat)](https://tarlow.space)
@@ -25,14 +25,16 @@ My mission is to help, heal, share, inspire, learn, and grow.
 
 ## Currently building
 
+**The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
+
 - **[CopySprout](https://copysprout.app)** - AI writing for Etsy sellers. Sixteen tools for the everyday parts of running a shop, in plain language.
 - **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated and dropshipped listings on Etsy.
 - **[IndieGameScout](https://tarlow.itch.io/indiegamescout-itchio-stats-tracker)** - desktop app that tracks itch.io stats over time: ratings, jam ranks, views, downloads, earnings.
 - **[Moss Toolbox](https://mosstoolbox.com/)** - Build your business profile once. Use tailored AI powered tools built to save you time and automate the heavy lifting.
 
-## Writing
+## Blogging
 
-I blog about building in public, my experiences, and AI [tarlow.space](https://tarlow.space).
+🖊 I blog about building in public, my experiences, and AI at [tarlow.space](https://tarlow.space).
 
 ## Elsewhere
 
