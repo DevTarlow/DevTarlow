@@ -1,4 +1,10 @@
-# Tarlow
+# Hey! It's Tarlow 👋
+
+Not a traditional engineer. No CS degree, no bootcamp. Just passion and drive for making things. I started with a computer repair business at 19, then SEO and client websites, then five years building and selling Windows automation tools.
+
+I am 41 now, and I stepped away from all of it for 5 years and came back with a different reason to build: tools that help people, not tools that extract from them. I work with AI coding agents now.
+
+And, I love building tools that can bridge the gaps.
 
 **The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
 
@@ -6,12 +12,6 @@
 [![Blog](https://img.shields.io/badge/Blog-tarlow.space-C05746?style=flat)](https://tarlow.space)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40mossaistudio.bsky.social-0285FF?style=flat)](https://bsky.app/profile/mossaistudio.bsky.social)
 [![X](https://img.shields.io/badge/X-%40MossAIStudio-000000?style=flat)](https://x.com/MossAIStudio)
-
-Back after a 5 year tech break and 3 year inner journey.
-
-AI sparked my interest to come back to building. It feels like the day's when websites and the internet were first taking off.  I'm excited.
-
-I have been building, selling software, and helping businesses since I was 17 and am now 41.
 
 Newer to Github and building in public but I'm trying to share, learn, adopt, and teach what I know.
 
