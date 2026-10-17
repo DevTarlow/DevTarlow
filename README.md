@@ -27,8 +27,9 @@ My mission is to help, heal, share, inspire, learn, and grow.
 
 **The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
 
+- **[Marimo Bot]([https://copysprout.app](https://github.com/DevTarlow/marimo-bot))** - A desktop AI assistant for your computer. Make bots for the work you keep repeating: each gets its own tools, memory and folder. The bots can communicate and work together
 - **[CopySprout](https://copysprout.app)** - AI writing for Etsy sellers. Sixteen tools for the everyday parts of running a shop, in plain language.
-- **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated and dropshipped listings on Etsy.
+- **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated listings on Etsy.
 - **[IndieGameScout](https://tarlow.itch.io/indiegamescout-itchio-stats-tracker)** - desktop app that tracks itch.io stats over time: ratings, jam ranks, views, downloads, earnings.
 - **[Moss Toolbox](https://mosstoolbox.com/)** - Build your business profile once. Use tailored AI powered tools built to save you time and automate the heavy lifting.
 
