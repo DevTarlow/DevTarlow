@@ -31,7 +31,7 @@ My mission is to help, heal, share, inspire, learn, and grow.
 - **[CopySprout](https://copysprout.app)** - AI writing for Etsy sellers. Sixteen tools for the everyday parts of running a shop, in plain language.
 - **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated listings on Etsy.
 - **[IndieGameScout](https://tarlow.itch.io/indiegamescout-itchio-stats-tracker)** - desktop app that tracks itch.io stats over time: ratings, jam ranks, views, downloads, earnings.
-- **[Moss Toolbox](https://mosstoolbox.com/)** - Build your business profile once. Use tailored AI powered tools built to save you time and automate the heavy lifting.
+- **[Moss Toolbox](https://mosstoolbox.com/)** - Under construction.
 
 ## Blogging
 
