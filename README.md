@@ -1,6 +1,6 @@
 # Hey! It's Tarlow 👋
 
-Not a traditional engineer. No CS degree, no bootcamp. Just passion and drive for making things. I started with a computer repair business at 19, then SEO and client websites, then five years building and selling Windows automation tools.
+Not a traditional engineer. Didn't go to college or start out at a big tech company. Just passion and drive for making things. I started with a mobile computer repair business at 19, then moved SEO, client websites, and affiliate marketing, then five years building and selling Windows automation tools for marketers.
 
 I am 41 now, and I stepped away from all of it for 5 years and came back with a different reason to build: tools that help people, not tools that extract from them. I work with AI coding agents now.
 
