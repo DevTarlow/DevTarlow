@@ -29,8 +29,14 @@ My mission is to help, heal, share, inspire, learn, and grow.
 
 - **[Marimo Bot](https://github.com/DevTarlow/marimo-bot)** - Desktop AI assistant with spaces it can read and write in, long-term memory, scheduled jobs, local semantic search, learns and grows, and bots with their own Role and Persona.
 - **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated listings on Etsy.
-- **[IndieGameScout](https://tarlow.itch.io/indiegamescout-itchio-stats-tracker)** - desktop app that tracks itch.io stats over time: ratings, jam ranks, views, downloads, earnings.
 - **[Moss Toolbox](https://mosstoolbox.com/)** - Under construction.
+
+## Itch Releases:
+- **[IndieGameScout](https://tarlow.itch.io/indiegamescout-itchio-stats-tracker)** - desktop app that tracks itch.io stats over time: ratings, jam ranks, views, downloads, earnings.
+- **[BlipTalk Studio](https://tarlow.itch.io/bliptalk-studio)** - Turn typed text into retro dialogue blips and Animalese voices. Export them as WAV files for your game. Free.
+- **[Crunchr](https://tarlow.itch.io/crunchr)** - Create sounds for your game, from clicks to footsteps to coins. Shape them in your browser.
+- **[Lotus Dashboard Creator](https://tarlow.itch.io/lotus-dashboard)** - Create your own dashboard. Twenty widgets on one screen. Move things around until it fits how you work.
+- **[Pixel Juice Studio](https://tarlow.itch.io/pixeljuice-studio)** - Game juice for 2D pixel art. Squash, flash, glow, particles. Output as a sprite sheet or GIF.
 
 ## Blogging
 
