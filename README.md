@@ -15,14 +15,6 @@ And, I love building tools that can bridge the gaps.
 
 Newer to Github and building in public but I'm trying to share, learn, adopt, and teach what I know.
 
-This way we can use this technology to pivot humanity into a new era. Finding new discoveries and unlocking more about our selves while driving awareness and safety for everyone.
-
-Now, more than ever. I believe that everyone has the power to create.
-
-That is the big question... What will one create with all this power?
-
-My mission is to help, heal, share, inspire, learn, and grow.
-
 ## Currently building
 
 **The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
