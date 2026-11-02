@@ -1,3 +1,8 @@
+[![Studio](https://img.shields.io/badge/Studio-mossaistudio.com-C05746?style=flat)](https://mossaistudio.com)
+[![Blog](https://img.shields.io/badge/Blog-tarlow.space-C05746?style=flat)](https://tarlow.space)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40mossaistudio.bsky.social-0285FF?style=flat)](https://bsky.app/profile/mossaistudio.bsky.social)
+[![X](https://img.shields.io/badge/X-%40MossAIStudio-000000?style=flat)](https://x.com/MossAIStudio)
+
 # Hey! It's Tarlow 👋
 
 Not a traditional engineer. Didn't go to college or start out at a big tech company. Just passion and drive for making things. I started with a mobile computer repair business at 19, then moved SEO, client websites, and affiliate marketing, then five years building and selling Windows automation tools for marketers.
@@ -7,11 +12,6 @@ I am 41 now, and I stepped away from all of it for 5 years and came back with a 
 And, I love building tools that can bridge the gaps.
 
 📖 [Click here to read more about my journey](https://mossaistudio.com/blog/the-story-behind-moss-ai-studio/)
-
-[![Studio](https://img.shields.io/badge/Studio-mossaistudio.com-C05746?style=flat)](https://mossaistudio.com)
-[![Blog](https://img.shields.io/badge/Blog-tarlow.space-C05746?style=flat)](https://tarlow.space)
-[![Bluesky](https://img.shields.io/badge/Bluesky-%40mossaistudio.bsky.social-0285FF?style=flat)](https://bsky.app/profile/mossaistudio.bsky.social)
-[![X](https://img.shields.io/badge/X-%40MossAIStudio-000000?style=flat)](https://x.com/MossAIStudio)
 
 Newer to Github and building in public but I'm trying to share, learn, adopt, and teach what I know.
 
