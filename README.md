@@ -27,7 +27,6 @@ My mission is to help, heal, share, inspire, learn, and grow.
 
 **The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
 
-- **[Marimo Bot](https://github.com/DevTarlow/marimo-bot)** - Desktop AI assistant with spaces it can read and write in, long-term memory, scheduled jobs, local semantic search, learns and grows, and bots with their own Role and Persona.
 - **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated listings on Etsy.
 - **[Moss Toolbox](https://mosstoolbox.com/)** - Under construction.
 
