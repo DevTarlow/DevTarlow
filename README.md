@@ -21,6 +21,11 @@ Newer to Github and building in public but I'm trying to share, learn, adopt, an
 
 - **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated listings on Etsy.
 - **[Moss Toolbox](https://mosstoolbox.com/)** - Under construction.
+- **[XBuddy](https://github.com/DevTarlow/xbuddy)** - Chrome Extension for Keyword highlights, negative filtering, and AI reply drafts for X, powered by a local AI model running on your own machine.
+
+## DeepSeek Harness Plugins:
+- **[dsh-response-chime](https://github.com/DevTarlow/dsh-response-chime)** - A DeepSeek Harness plugin that chimes when an agent finishes answering.
+- **[dsh-background-swapper](https://github.com/DevTarlow/dsh-background-swapper)** - A DeepSeek Harness plugin that sets a photo as the harness background.
 
 ## Itch Releases:
 - **[IndieGameScout](https://tarlow.itch.io/indiegamescout-itchio-stats-tracker)** - desktop app that tracks itch.io stats over time: ratings, jam ranks, views, downloads, earnings.
