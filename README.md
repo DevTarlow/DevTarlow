@@ -22,7 +22,7 @@ Newer to Github and building in public but I'm trying to share, learn, adopt, an
 **The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
 
 - **[X Buddy](https://github.com/DevTarlow/xbuddy)** - Chrome Extension for Keyword highlights, negative filtering, and AI reply drafts for X, powered by a local AI model running on your own machine.
-- **[Marimo Bot](https://github.com/DevTarlow/marimo-bot)** - A desktop agent for one folder: it reads and writes your files, remembers what matters, and runs scheduled jobs with the app closed. One local model handles text, pictures and speech.
+- **[Marimo Bot](https://github.com/DevTarlow/marimo-bot)** - A desktop agent with spaces: it reads and writes your files, remembers what matters, and runs scheduled jobs with the app closed. One local model handles text, pictures and speech.
 - **[Moss Toolbox](https://mosstoolbox.com/)** - Under construction.
 - **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated listings on Etsy.
 
