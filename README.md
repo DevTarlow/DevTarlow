@@ -19,9 +19,9 @@ Newer to Github and building in public but I'm trying to share, learn, adopt, an
 
 **The studio where ideas become reality [Moss AI Studio](https://mossaistudio.com)** · Portland, OR
 
-- **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated listings on Etsy.
-- **[Moss Toolbox](https://mosstoolbox.com/)** - Under construction.
 - **[X Buddy](https://github.com/DevTarlow/xbuddy)** - Chrome Extension for Keyword highlights, negative filtering, and AI reply drafts for X, powered by a local AI model running on your own machine.
+- **[Moss Toolbox](https://mosstoolbox.com/)** - Under construction.
+- **[Handmade Checker](https://handmadechecker.com)** - free Chrome extension that spots AI-generated listings on Etsy.
 
 ## DeepSeek Harness Plugins:
 - **[dsh-response-chime](https://github.com/DevTarlow/dsh-response-chime)** - A DeepSeek Harness plugin that chimes when an agent finishes answering.
