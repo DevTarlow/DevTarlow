@@ -29,7 +29,7 @@ Newer to Github and building in public but I'm trying to share, learn, adopt, an
 ## DeepSeek Harness Plugins:
 - **[dsh-response-chime](https://github.com/DevTarlow/dsh-response-chime)** - A DeepSeek Harness plugin that chimes when an agent finishes answering.
 - **[dsh-background-swapper](https://github.com/DevTarlow/dsh-background-swapper)** - A DeepSeek Harness plugin that sets a photo as the harness background.
-- **[dsh-peak-price-pal](https://github.com/DevTarlow/dsh-peak-price-pal)** - A DeepSeek Harness plugin: a small sun or moon logo under the composer shows whether DeepSeek is billing at peak or off-peak rates.
+- **[dsh-peak-price-pal](https://github.com/DevTarlow/dsh-peak-price-pal)** - A DeepSeek Harness plugin: DeepSeek halves its rates off-peak. A small sun or moon in the composer shows which rate is live, plus your balance and today's spend.
 
 ## Itch Releases:
 - **[IndieGameScout](https://tarlow.itch.io/indiegamescout-itchio-stats-tracker)** - desktop app that tracks itch.io stats over time: ratings, jam ranks, views, downloads, earnings.
